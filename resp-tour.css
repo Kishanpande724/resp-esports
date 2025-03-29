@@ -1,0 +1,11 @@
+.Upcoming{
+    margin: auto;
+    color: #f0f2f5;
+    border: 1px solid grey;
+    width: 400px;
+    text-align: center;
+    /*margin-left: 520px;*/
+    background-color: grey;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 500;
+}
