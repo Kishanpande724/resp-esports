@@ -12,7 +12,7 @@ window.addEventListener('load', function () {
         loadingScreen.style.display = 'none';  // Hide the loading screen
         mainContent.style.display = 'block';  // Show the main content
         document.body.style.overflow = 'auto'; // Enable scrolling again
-    }, 20);  // Adjust the time (in milliseconds) as needed
+    }, 2000);  // Adjust the time (in milliseconds) as needed
 });
 
 
